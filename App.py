@@ -3,7 +3,7 @@ import tempfile
 import streamlit as st
 
 from langchain_groq import ChatGroq
-from langchain_community import chromadb
+from langchain_community.vectorstores import chromadb
 from langchain_huggingface import HuggingFaceEmbeddings
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
