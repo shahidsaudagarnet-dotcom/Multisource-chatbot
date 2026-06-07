@@ -7,7 +7,7 @@ langchain-core
 langchain-groq
 langchain-huggingface
 
-chromadb
+FAISS
 
 sentence-transformers
 huggingface-hub
