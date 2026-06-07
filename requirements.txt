@@ -1,0 +1,17 @@
+streamlit 
+langchain
+langchain_community
+langchain-classic
+langchain-groq 
+langchain-huggingface
+langchain-openai 
+sentence-transformers
+faiss-cpu 
+python-dotenv
+youtube-transcript-api 
+pypdf 
+pytube
+beautifulsoup4
+openai 
+pydantic
+rank_bm25
